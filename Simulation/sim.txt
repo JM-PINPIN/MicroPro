@@ -1,0 +1,1 @@
+Each block in a standalon simulation and one overall simulation. Everything on NI Multisim 14.3
